@@ -1,0 +1,1 @@
+* * * * * root python3 /app/app/cron_task.py >> /cron/last_code.txt 2>&1
