@@ -1,0 +1,18 @@
+# Sensitive and generated files to exclude
+encrypted_seed.txt
+data/seed.txt
+cron/cron_output.log
+cron/cron.log
+cron/last_code.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+env/
+.env
+
+# IDE files
+.idea/
+.vscode/
